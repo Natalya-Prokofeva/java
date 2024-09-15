@@ -2,7 +2,7 @@
 Реализуйте метод countOccurrences в классе ListUtils, который
 принимает LinkedList<String> и строку, и возвращает количество
 вхождений строки в список.
-import java.util.LinkedLi*/
+import java.util.LinkedList*/
 
 import java.util.LinkedList;
 class ListUtils {
